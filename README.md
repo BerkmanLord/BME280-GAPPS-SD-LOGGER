@@ -12,15 +12,15 @@ Click on the link below to learn more about the Google Sheets script by StorageB
 
 https://github.com/StorageB/Google-Sheets-Logging
 
-- Pinout for ESP32-DevKitC V4
-- Card Reader SPI
-VIN  - 5V - PLEASE MAKE SURE YOUR CARD READER SUPPORTS 5VOLTS.
-CS   - GPIO 5
-MOSI - GPIO 23
-CLK  - GPIO 18
-MISO - GPIO 19
-GND	 - GND
+### Pinout for ESP32-DevKitC V4
+#### Card Reader SPI
+- VIN  - 5V - PLEASE MAKE SURE YOUR CARD READER SUPPORTS 5VOLTS.
+- CS   - GPIO 5
+- MOSI - GPIO 23
+- CLK  - GPIO 18
+- MISO - GPIO 19
+- GND	 - GND
 
-- I2C
-SCL GPIO 22
-SDA GPIO 21
+#### I2C
+- SCL GPIO 22
+- SDA GPIO 21
